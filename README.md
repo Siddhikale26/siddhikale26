@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## 👋 Hi, I’m **Siddhi Kale**
 
 🎯 **Data Analyst | Product-Focused Problem Solver | Data-Driven Decision Maker**
